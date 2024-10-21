@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marcadores>
+    <marcador>
+        <nombre>Abrirllave</nombre>
+        <descripcion>Tutoriales, libros, cursos y otros recursos de informática.</descripcion>
+        <url>https://www.abrirllave.com/</url>
+    </marcador>
+    <marcador>
+        <nombre>Wikipedia</nombre>
+        <descripcion>Wikipedia es una enciclopedia libre, políglota y editada de manera colaborativa.</descripcion>
+        <url>https://www.wikipedia.org/</url>
+    </marcador>
+    <marcador>
+        <nombre>W3C</nombre>
+        <descripcion>Es un consorcio internacional que genera recomendaciones y estándares que aseguran el crecimiento de la World Wide Web a largo plazo.</descripcion>
+        <url>https://www.w3.org/</url>
+    </marcador>
+</marcadores>
