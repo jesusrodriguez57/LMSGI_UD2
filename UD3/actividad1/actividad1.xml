@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="Genero del Autor"> 
+<libreria>
+  <libro id="1">
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autores>
+      <autor>
+        <nombre>Miguel</nombre>
+        <apellido>Cervantes</apellido>
+        <genero>Novela</genero>
+      </autor>
+    </autores>
+  </libro>
+  
+  <libro id="2">
+    <titulo>1984</titulo>
+    <autores>
+      <autor>
+        <nombre>George</nombre>
+        <apellido>Orwell</apellido>
+        <genero>Distopía</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id="3">
+    <titulo>Cien años de soledad</titulo>
+    <autores>
+      <autor>
+        <nombre>Gabriel</nombre>
+        <apellido>García Márquez</apellido>
+        <genero>Realismo mágico</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id="4">
+    <titulo>La sombra del viento</titulo>
+    <autores>
+      <autor>
+        <nombre>Carlos</nombre>
+        <apellido>Ruíz Zafón</apellido>
+        <genero>Novela histórica</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id="5">
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <autores>
+      <autor>
+        <nombre>J.K.</nombre>
+        <apellido>Rowling</apellido>
+        <genero>Fantástica</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id="6">
+    <titulo>Orgullo y prejuicio</titulo>
+    <autores>
+      <autor>
+        <nombre>Jane</nombre>
+        <apellido>Austen</apellido>
+        <genero>Romántico</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id ="7">
+    <titulo>El gran Gatsby</titulo>
+    <autores>
+      <autor>
+        <nombre>F. Scott</nombre>
+        <apellido>Fitzgerald</apellido>
+        <genero>Ficción</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id="8">
+    <titulo>El retrato de Dorian Gray</titulo>
+    <autores>
+      <autor>
+        <nombre>Oscar</nombre>
+        <apellido>Wilde</apellido>
+        <genero>Filosófico</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id="9">
+    <titulo>Crónica de una muerte anunciada</titulo>
+    <autores>
+      <autor>
+        <nombre>Gabriel</nombre>
+        <apellido>García Márquez</apellido>
+        <genero>Novela corta</genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro id="10">
+    <titulo>El nombre del viento</titulo>
+    <autores>
+      <autor>
+        <nombre>Patrick</nombre>
+        <apellido>Rothfuss</apellido>
+        <genero>Fantástica</genero>
+      </autor>
+    </autores>
+  </libro>
+</libreria>
+</root>
