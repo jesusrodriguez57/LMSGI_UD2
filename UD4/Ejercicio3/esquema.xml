@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dtd.xml">
+    <<Coche>>
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <año>1990</año>
+        <precio>4000€</precio>
+    </libro>
+    <libro>
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <año>2010</año>
+        <precio>24000€</precio>
+    </libro>
+</biblioteca>

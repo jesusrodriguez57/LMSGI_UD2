@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario [
+]>
+<Concesionario>
+  <Coche>
+    <Codigo>1</Codigo>
+    <Marca>Toyota</Marca>
+    <Modelo>Corolla</Modelo>
+    <Matricula>4534ghj</Matricula>
+    <Potencia>120cv</Potencia>
+    <Plazas>5</Plazas>
+    <Puertas>4</Puertas>
+  </Coche>
+  <Coche>
+    <Codigo>2</Codigo>
+    <Marca>Ford</Marca>
+    <Modelo>Mustang</Modelo>
+    <Matricula>5665XML</Matricula>
+    <Potencia>360cv</Potencia>
+    <Plazas>5</Plazas>
+    <Puertas>5</Puertas>
+  </Coche>
+</Concesionario>
